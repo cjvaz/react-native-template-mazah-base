@@ -1,0 +1,40 @@
+{
+  "root": true,
+  "env": {
+    "jest": true
+  },
+  "extends": [
+    "@react-native-community",
+    "airbnb",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "useJSXTextNode": true,
+    "project": "./tsconfig.json",
+    "tsconfigRootDir": "src/../"
+  },
+  "plugins": ["prettier", "@typescript-eslint", "import"],
+  "rules": {
+    "prettier/prettier": [ "error", {
+      "trailingComma": "es5",
+      "printWidth": 100,
+      "singleQuote": true
+    }],
+    "react/jsx-filename-extension": ["error",{ "extensions": [".ts", ".tsx"] }],
+    "@typescript-eslint/explicit-function-return-type": "off",
+    "no-console": ["error", { "allow": ["error"] }],
+    "import/no-unresolved": 0
+  },
+  "settings": {
+    "import/resolver": {
+      "babel-plugin-root-import": {
+        "rootPathPrefix": "~",
+        "rootPathSuffix": "src/js"
+      }
+    }
+  }
+}
