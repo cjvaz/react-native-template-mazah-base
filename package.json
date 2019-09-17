@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-mazah-base",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Base react native application for project using Typescript.",
   "keywords": [
     "react-native",
@@ -11,6 +11,10 @@
     "typescript",
     "babel-root-import"
   ],
+  "files": [
+    "template",
+    "template.config.js"
+  ],  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cjvaz/react-native-template-mazah-base.git"
