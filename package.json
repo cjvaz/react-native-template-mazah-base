@@ -1,4 +1,21 @@
 {
   "name": "react-native-template-mazah-base",
-  "version": "0.0.2"
+  "version": "0.0.3",
+  "description": "Base react native application for project using Typescript.",
+  "keywords": [
+    "react-native",
+    "template",
+    "cjvaz",
+    "mazah",
+    "eslint",
+    "typescript",
+    "babel-root-import"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjvaz/react-native-template-mazah-base.git"
+  },
+  "homepage": "https://github.com/cjvaz/react-native-template-mazah-base.git#readme",
+  "author": "Carlos José Vaz <carlosjvaz@gmail.com>",
+  "license": "MIT"
 }
