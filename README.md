@@ -1,6 +1,3 @@
-Base react native application for project using Typescript
-
-
 <!-- PROJECT SHIELDS -->
 
 [![npm](https://img.shields.io/npm/v/react-native-template-mazah-base.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-mazah-base)
@@ -13,3 +10,30 @@ Base react native application for project using Typescript
 <br />
   <h3 align="center">Mazah Template React Native</h3>
 </p>
+
+### About
+
+Base react native application for project using Typescript.
+
+### Features
+
+- Consistent with the default React Native template
+- Minimal additional dependencies
+
+### Usage ()
+
+```sh
+npx react-native init MyApp --template react-native-template-mazah-base
+```
+> React Native >= 0.60
+## Contributing
+
+Contributions are very welcome. Please check out the [contributing document](CONTRIBUTING.md).
+
+## Licença
+
+This project is [MIT](LICENSE) licensed.
+
+## Contato
+
+Carlos José Vaz - [Github](https://github.com/cjvaz) - **carlosjvaz@gmail.com**
