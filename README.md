@@ -11,16 +11,16 @@
   <h3 align="center">Mazah Template React Native</h3>
 </p>
 
-### About
+## About
 
 Base react native application for project using Typescript.
 
-### Features
+## Features
 
 - Consistent with the default React Native template
 - Minimal additional dependencies
 
-### Usage ()
+## Usage
 
 ```sh
 npx react-native init MyApp --template react-native-template-mazah-base
