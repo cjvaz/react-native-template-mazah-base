@@ -30,10 +30,10 @@ npx react-native init MyApp --template react-native-template-mazah-base
 
 Contributions are very welcome. Please check out the [contributing document](CONTRIBUTING.md).
 
-## Licença
+## License
 
 This project is [MIT](LICENSE) licensed.
 
-## Contato
+## contact
 
 Carlos José Vaz - [Github](https://github.com/cjvaz) - **carlosjvaz@gmail.com**
