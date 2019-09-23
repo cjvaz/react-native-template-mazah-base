@@ -20,8 +20,8 @@
   "plugins": ["prettier", "@typescript-eslint", "import"],
   "rules": {
     "prettier/prettier": [ "error", {
-      "trailingComma": "es5",
-      "printWidth": 100,
+      "trailingComma": "all",
+      "printWidth": 80,
       "singleQuote": true
     }],
     "react/jsx-filename-extension": ["error",{ "extensions": [".ts", ".tsx"] }],
