@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-mazah-base",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Base react native application for project using Typescript.",
   "keywords": [
     "react-native",
