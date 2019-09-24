@@ -62,5 +62,3 @@ buck-out/
 #
 .jest/
 
-ios/
-android/
